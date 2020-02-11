@@ -1,0 +1,4 @@
+com\ebalance\showcase\dietaryjournal\controller\JournalController.class
+com\ebalance\showcase\dietaryjournal\service\JournalService.class
+com\ebalance\showcase\dietaryjournal\model\JournalEntity.class
+com\ebalance\showcase\dietaryjournal\repository\JournalDAO.class
